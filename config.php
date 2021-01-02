@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'http://reinhurd.wtf',
+    'baseUrl' => 'https://www.reinhurd.wtf',
     'production' => true,
     'siteName' => 'Reinhurd Blog',
     'siteDescription' => 'Blog about learning IT the hard way',

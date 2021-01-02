@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'http://reinhurd.wtf',
+    'baseUrl' => 'https://www.reinhurd.wtf',
     'production' => true,
 ];
